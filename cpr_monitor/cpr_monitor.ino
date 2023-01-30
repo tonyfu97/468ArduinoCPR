@@ -1,8 +1,8 @@
 /*
- * BIOEN 468/568 Lab 5: Accelerometer-Based CPR Monitor
+ * BIOEN 468/568 Pre-Lab 5: Accelerometer-Based CPR Monitor
  * 
- * Use OLED to display the CPR rate and depth measured by ADXL335.
  */
+
 #define DECAY_RATE 0.01
 
 void setup() {

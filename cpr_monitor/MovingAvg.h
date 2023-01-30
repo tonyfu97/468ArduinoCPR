@@ -1,7 +1,7 @@
-/* A simple moving average buffer.
- * 
- * Tony Fu, Jan 2023
+/* 
+ * A simple moving average buffer.
  */
+
 #ifndef MOVING_AVG_H_
 #define MOVING_AVG_H_
 
